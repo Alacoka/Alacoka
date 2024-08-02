@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alacoka/Alacoka/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Alacoka/Alacoka/output/snake.svg](https://github.com/Platane/snk/blob/main/svg-only/action.yml)" alt="Snake animation" />
 
 ###
