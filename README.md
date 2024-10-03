@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação e cursando o quarto semestre de análise e desenvolvimento de sistemas no Centro Universitário UniPiaget, em Suzano-SP. Iniciei meus estudos tendo contato com lógica de programação com 16 anos, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de ensinamentos dentro e fora da faculdade. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento.</h3>
+<h3 align="center">Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação e cursando o quarto semestre de análise e desenvolvimento de sistemas no Centro Universitário UniPiaget, em Suzano-SP. Iniciei meus estudos tendo contato com lógica de programação com 16 anos, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de ensinamentos dentro e fora da faculdade. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento.</h3>
 
 ###
 
