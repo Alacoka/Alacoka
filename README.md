@@ -20,14 +20,7 @@
 
 ###
 
-<h3 align="center">Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação e cursando análise e desenvolvimento de sistemas no Centro Universitário UniPiaget, em Suzano-SP. Iniciei meus estudos tendo contato com lógica de programação com 16 anos, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de ensinamentos dentro e fora da faculdade. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento.</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alacoka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alacoka&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">Olá, atualmente estou buscando oportunidades na área de desenvolvimento. Sou um estudante de programação e cursando o quarto semestre de análise e desenvolvimento de sistemas no Centro Universitário UniPiaget, em Suzano-SP. Iniciei meus estudos tendo contato com lógica de programação com 16 anos, e tenho expandido meus conhecimentos em outras linguagens e habilidades por meio de ensinamentos dentro e fora da faculdade. Meu objetivo é aplicar esses conhecimentos em projetos e colaborar em equipes de desenvolvimento.</h3>
 
 ###
 
@@ -53,6 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
 </div>
 
 ###
