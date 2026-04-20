@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Kawã Alacoque!👋</h1>
+<h1 align="left">Olá, eu sou Kawã Alacoque!👋</h1>
 
 ###
 
